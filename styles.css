@@ -1,0 +1,36 @@
+body {
+    font-family: Helvetica, sans-serif;
+    background-color: #e0fbfc;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #3d5a80;
+}
+h2 {
+    color: #ee6c4d;
+}
+
+table {
+    border: solid;
+    border-color: #ee6c4d;
+    margin: auto;
+}
+
+table th {
+    text-align: center;
+    background-color: #fd886b;
+    color: #293241;
+}
+
+td {
+    border-top: solid;
+    border-top-width: 1px;
+    border-color:#ee6c4d
+}
+
+.code {
+    font-size: 15px;
+    font-family: Georgia;
+    background-color: #bfccd3;
+}
